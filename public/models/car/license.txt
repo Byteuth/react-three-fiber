@@ -1,0 +1,11 @@
+Model Information:
+* title:	Car LowPoly
+* source:	https://sketchfab.com/3d-models/car-lowpoly-b6906b7e5ae64e6fbacd0cf1d7259d40
+* author:	tkkjee (https://sketchfab.com/tkkjee)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Car LowPoly" (https://sketchfab.com/3d-models/car-lowpoly-b6906b7e5ae64e6fbacd0cf1d7259d40) by tkkjee (https://sketchfab.com/tkkjee) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
