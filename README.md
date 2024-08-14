@@ -1,10 +1,11 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
-
 ```
-yarn
-yarn dev
+npm install
+npm run dev
 ```
 
+base react three fiber playground. 
+Adds scene/cam/renderer
+Uses mesh portals for tree inside frames
 
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+
+![Screenshot from 2024-08-14 10-40-03](https://github.com/user-attachments/assets/4864e83e-123e-419a-b58b-e748e4e99548)
